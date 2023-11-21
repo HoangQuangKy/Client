@@ -1,0 +1,7 @@
+.video-overlay {
+    display: none;
+}
+
+.button:hover .video-overlay {
+    display: block;
+}

@@ -1,0 +1,17 @@
+.carousel {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.carousel-title {
+    font-size: 24px;
+    margin: 1rem 0;
+}
+
+.carousel-item {
+    margin: 0 10px;
+}
+
+.carousel-item img {
+    max-width: 100%;
+}
